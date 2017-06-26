@@ -13,7 +13,7 @@ During the course we will use little bit of Pandas [10 minute intro](https://pan
 
 0. Make sure you have Python 3.5+ installed
 1. Clone this repository: `git clone http://github.com/oroszgy/hungarian-text-mining-workshop && cd hungarian-text-mining-workshop`
-2. Install the necessary packages: `pip install requirements.txt`
+2. Install the necessary packages: `pip install -r requirements.txt`
 3. Download the Enlgish and the Hungaruan NLP models for spaCy: 
     * `python spacy download en`
     * `pip install https://github.com/oroszgy/spacy-hungarian-models/releases/download/hu_tagger_web_md-0.1.0/hu_tagger_web_md-0.1.0.tar.gz`
