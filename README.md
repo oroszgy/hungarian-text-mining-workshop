@@ -7,7 +7,7 @@ Please be prepared with
 * basic knowledge of Python
 * experience in using Jupyter notebooks
 
-During the course we will use little bit of Pandas [10 minute intro](https://pandas.pydata.org/pandas-docs/stable/10min.html) and [scikit-learn](http://scikit-learn.org/stable/) to build simple machine learning models. 
+During the course we will use little bit of Pandas ([10 minute intro](https://pandas.pydata.org/pandas-docs/stable/10min.html)) and [scikit-learn](http://scikit-learn.org/stable/) to build simple machine learning models. 
 
 ### Install softwares used
 
