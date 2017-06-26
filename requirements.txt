@@ -11,7 +11,6 @@ dill==0.2.6
 entrypoints==0.2.3
 ftfy==4.4.3
 html5lib==0.999999999
-hunlp==0.2.0
 idna==2.5
 ijson==2.3
 ipykernel==4.6.1
