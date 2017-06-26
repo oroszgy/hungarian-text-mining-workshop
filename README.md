@@ -22,7 +22,7 @@ During the course we will use little bit of Pandas ([10 minute intro](https://pa
     
 ## Table of Contents
 
-1. Practical NLP in Python: `spaCy` and `textacy`, 
+1. Practical NLP in Python: `spaCy` and `textacy` 
 2. Describing documents with words
 2. Document categorization
 3. Sentiment analysis
