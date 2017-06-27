@@ -22,12 +22,9 @@ During the course we will use little bit of Pandas ([10 minute intro](https://pa
     
 ## Table of Contents
 
-1. Practical NLP in Python: `spaCy` and `textacy` 
-2. Describing documents with words
-2. Document categorization
-3. Sentiment analysis
-5. Named entities
-6. Identifying concepts in documents
+1. [Practical NLP in Python: `spaCy` and `textacy`, Describing documents with words](./1_Intro.ipynb)
+2. [Document categorization, Sentiment analysis](./2_TextCategorization.ipynb)
+3. [Extracting named entities and concepts](./3_EntitiesAndConcepts.ipynb)
 
 ---
 
